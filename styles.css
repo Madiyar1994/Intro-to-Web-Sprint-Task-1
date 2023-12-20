@@ -25,10 +25,10 @@
 }
 
 .mainNews{
+    width: 100%;
     background-color:cadetblue;
     border-radius: 10px;
     margin-top: 20px;
-    padding: 20px;
     display: flex;
 }
 
@@ -37,15 +37,15 @@
 }
 
 .mainImage img{
-    width: 320%;
+    width: 100%;
     height: auto;
     border-radius: 10px;
 }
 
 .mainText{
     padding: 10px;
-    margin-left: 340px;
-    font-size: 18px;
+    width: 100%;
+    font-size: 20px;
     color: black;
     font-family:Arial, Helvetica, sans-serif;
 }
